@@ -86,6 +86,6 @@ button{
 
 }
 .list a:hover{
-    background-color: blue;
+    background-color: red;
     color:white;
 }
